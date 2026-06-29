@@ -1,0 +1,7 @@
+apache-airflow-providers-postgres==5.14.0
+apache-airflow-providers-amazon==9.1.0
+psycopg[binary]==3.3.2
+pandas==2.1.4
+redis==5.2.1
+sqlalchemy==1.4.54
+evidently
